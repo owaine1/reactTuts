@@ -5,6 +5,7 @@
 // note below does not work. See error on console:
 // Uncaught SyntaxError: Unexpected token <
 // Babel will transpile in next iteration
+// fixed with additions in html babel cdn and script type="text/babel"
 const {
     render
 } = ReactDOM;
